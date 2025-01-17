@@ -11,12 +11,14 @@ magnitude without loosing much on the performance side.
 
 | Name   | Bytes | Description             | Announcement |
 | :----- | :--- | :---------------------- | :--- |
-| echo | 2568 | Output arguments to stdout. | [Speeding up echo](https://www.linkedin.com/posts/bkauer_performance-rust-lessismore-activity-7269647523437240320-r5NI) |
-| false | 144 | Exit un-succesfully. | [About true and false](.) |
-| true | 141 | Exit succesfully. | [About true and false](.) |
-| vfork | 3993 | Execute a process many times. | [How can we start processes faster?](https://www.linkedin.com/posts/bkauer_lessismore-activity-7259185264223301632-DYqK) |
-| wc-l | 1568 | Count lines from stdin. | [Line counting: the SIMD way.](.) |
-| yes | 856 | Output a string forever. | [Yes: it is growing fast.](.) |
+| echo | 2432 | Output arguments to stdout. | [Speeding up echo](https://www.linkedin.com/posts/bkauer_performance-rust-lessismore-activity-7269647523437240320-r5NI) |
+| false | 142 | Exit un-succesfully. | [About true and false](.) |
+| head | 3320 | Output the first parts of the given files. | [To splice or not to splice?](https://www.linkedin.com/posts/bkauer_splice-optimization-lessismore-activity-7278440673777782784-2YWv) |
+| pv | 4649 | Show amount of data flowing through a pipe. | [To splice or not to splice?](https://www.linkedin.com/posts/bkauer_splice-optimization-lessismore-activity-7278440673777782784-2YWv) |
+| true | 139 | Exit succesfully. | [About true and false](.) |
+| vfork | 4081 | Execute a process many times. | [How can we start processes faster?](https://www.linkedin.com/posts/bkauer_lessismore-activity-7259185264223301632-DYqK) |
+| wc | 4896 | Word count. | [How to optimize wc?](https://www.linkedin.com/posts/bkauer_wc-optimize-lessismore-activity-7274786985649623041-xxT1) |
+| yes | 1072 | Output a string forever. | [yes: our software is bloated](https://www.linkedin.com/posts/bkauer_complexity-optimization-lessismore-activity-7272653052879286273-PxwA) |
 
 
 Please note that this implementation does not aim to be a drop-in

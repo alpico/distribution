@@ -1,7 +1,6 @@
-ARCH:=a64 x64
+ARCH:=a64 x64 native
 update:	build
 	./.update_table.sh README.md 1 ./.update.sh "${ARCH}"
-
 
 build:
 	for arch in ${ARCH}; do				\
