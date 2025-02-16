@@ -5,7 +5,7 @@ The standard tools in Linux are surprisingly large.  The simplest one
 `mv` needs whooping 140k.  Storing and executing such large files
 leads to unnecessary disk and CPU overhead.
 
-To show that these overheads are not essence but accidental, we aim to
+To show that these overheads are not essence but accidental we aim to
 to reduce the binary size of these tools by at least an order of
 magnitude without losing much on the performance side.
 
