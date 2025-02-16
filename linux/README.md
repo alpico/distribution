@@ -29,6 +29,7 @@ magnitude without losing much on the performance side.
 | yes | 1080 | Output a string forever. | [yes: our software is bloated](https://www.linkedin.com/posts/bkauer_complexity-optimization-lessismore-activity-7272653052879286273-PxwA) |
 
 
-Please note that this implementation does not aim to be a drop-in
-replacement.  There are just too many home-grown features that extend
-beyond POSIX compatibility.
+> [!NOTE]
+> Please note that this implementation does not aim to be a drop-in
+> replacement.  There are just too many home-grown features that extend
+> beyond POSIX compatibility.
