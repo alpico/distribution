@@ -30,5 +30,5 @@ magnitude without losing much on the performance side.
 
 
 Please note that this implementation does not aim to be a drop-in
-replacement.  There are just to many home-grown features that extend
-beyond Posix compatiblity.
+replacement.  There are just too many home-grown features that extend
+beyond POSIX compatibility.
