@@ -22,6 +22,7 @@ magnitude without losing much on the performance side.
 | link | 824 | Hard-link files. | [To the tiny ones.](https://www.linkedin.com/posts/bkauer_tiny-programming-lessismore-activity-7296196486801862657-pa_F) |
 | nc | 3904 | TCP connections and listens. | [When latency matters.](https://www.linkedin.com/posts/bkauer_lessismore-latency-ladybug-activity-7290761665099235329-CPRy) |
 | pv | 4657 | Show amount of data flowing through a pipe. | [To splice or not to splice?](https://www.linkedin.com/posts/bkauer_splice-optimization-lessismore-activity-7278440673777782784-2YWv) |
+| pwc | 7984 | Word and line count in parallel. | [Counting words in parallel.](https://www.linkedin.com/posts/bkauer_pwc-optimize-lessismore-activity-7299184769953595392-LH5t) |
 | true | 139 | Exit successfully. | [To the tiny ones.](https://www.linkedin.com/posts/bkauer_tiny-programming-lessismore-activity-7296196486801862657-pa_F) |
 | unlink | 616 | Remove files. | [To the tiny ones.](https://www.linkedin.com/posts/bkauer_tiny-programming-lessismore-activity-7296196486801862657-pa_F) |
 | vfork | 4089 | Execute a process many times. | [How can we start processes faster?](https://www.linkedin.com/posts/bkauer_lessismore-activity-7259185264223301632-DYqK) |
