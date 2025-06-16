@@ -1,4 +1,4 @@
-ARCH:=a64 x64 native
+ARCH:=a64 x64 native r64
 update:	build
 	./.update_table.sh README.md 1 ./.update.sh "${ARCH}"
 

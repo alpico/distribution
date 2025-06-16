@@ -13,21 +13,21 @@ magnitude without losing much on the performance side.
 | :----- | :--- | :---------------------- | :--- |
 | arch | 259 | Print the machine hardware. | [To the tiny ones.](https://www.linkedin.com/posts/bkauer_tiny-programming-lessismore-activity-7296196486801862657-pa_F) |
 | basename | 1019 | Get the filename for a path. | [To the tiny ones.](https://www.linkedin.com/posts/bkauer_tiny-programming-lessismore-activity-7296196486801862657-pa_F) |
-| bw-mmap | 7336 | Measure the bandwidth for accessing files and anonymous memory through various means. | [Optimized for decades or too complex to be fast?](https://www.linkedin.com/posts/bkauer_linux-performance-lessismore-activity-7306305414558633985-LtVI) |
+| bw-mmap | 7352 | Measure the bandwidth for accessing files and anonymous memory through various means. | [Optimized for decades or too complex to be fast?](https://www.linkedin.com/posts/bkauer_linux-performance-lessismore-activity-7306305414558633985-LtVI) |
 | echo | 2408 | Output arguments to stdout. | [Speeding up echo](https://www.linkedin.com/posts/bkauer_performance-rust-lessismore-activity-7269647523437240320-r5NI) |
 | false | 142 | Exit un-successfully. | [To the tiny ones.](https://www.linkedin.com/posts/bkauer_tiny-programming-lessismore-activity-7296196486801862657-pa_F) |
 | head | 3328 | Output the first parts of the given files. | [To splice or not to splice?](https://www.linkedin.com/posts/bkauer_splice-optimization-lessismore-activity-7278440673777782784-2YWv) |
 | hello | 186 | Hello world! | [To the tiny ones.](https://www.linkedin.com/posts/bkauer_tiny-programming-lessismore-activity-7296196486801862657-pa_F) |
-| hyperfine | 6296 | Benchmark a single process. | [Better own your tools.](https://www.linkedin.com/posts/bkauer_benchmark-tools-lessismore-activity-7292936912191844352-D2JP) |
+| hyperfine | 6288 | Benchmark a single process. | [Better own your tools.](https://www.linkedin.com/posts/bkauer_benchmark-tools-lessismore-activity-7292936912191844352-D2JP) |
 | link | 824 | Hard-link files. | [To the tiny ones.](https://www.linkedin.com/posts/bkauer_tiny-programming-lessismore-activity-7296196486801862657-pa_F) |
-| nc | 3864 | TCP connections and listens. | [When latency matters.](https://www.linkedin.com/posts/bkauer_lessismore-latency-ladybug-activity-7290761665099235329-CPRy) |
+| nc | 3880 | TCP connections and listens. | [When latency matters.](https://www.linkedin.com/posts/bkauer_lessismore-latency-ladybug-activity-7290761665099235329-CPRy) |
 | pv | 4633 | Show amount of data flowing through a pipe. | [To splice or not to splice?](https://www.linkedin.com/posts/bkauer_splice-optimization-lessismore-activity-7278440673777782784-2YWv) |
-| pwc | 7936 | Word and line count in parallel. | [Counting words in parallel.](https://www.linkedin.com/posts/bkauer_pwc-optimize-lessismore-activity-7299184769953595392-LH5t) |
+| pwc | 7984 | Word and line count in parallel. | [Counting words in parallel.](https://www.linkedin.com/posts/bkauer_pwc-optimize-lessismore-activity-7299184769953595392-LH5t) |
 | true | 139 | Exit successfully. | [To the tiny ones.](https://www.linkedin.com/posts/bkauer_tiny-programming-lessismore-activity-7296196486801862657-pa_F) |
 | unlink | 616 | Remove files. | [To the tiny ones.](https://www.linkedin.com/posts/bkauer_tiny-programming-lessismore-activity-7296196486801862657-pa_F) |
 | vfork | 4297 | Execute a process many times. | [How can we start processes faster?](https://www.linkedin.com/posts/bkauer_lessismore-activity-7259185264223301632-DYqK) |
 | wc | 5296 | Word count. | [How to optimize wc?](https://www.linkedin.com/posts/bkauer_wc-optimize-lessismore-activity-7274786985649623041-xxT1) |
-| yes | 1064 | Output a string forever. | [yes: our software is bloated](https://www.linkedin.com/posts/bkauer_complexity-optimization-lessismore-activity-7272653052879286273-PxwA) |
+| yes | 1080 | Output a string forever. | [yes: our software is bloated](https://www.linkedin.com/posts/bkauer_complexity-optimization-lessismore-activity-7272653052879286273-PxwA) |
 
 > [!NOTE]
 > Please note that this implementation does not aim to be a drop-in
